@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Zulqurnain </h1>
 
-## What Can I say, I just love software!
+## What Can I say, I just Games!
 
 
 I am a passionate Game Developer with experience in both 2D and 3D game development. I excel in character and level design, implementing
@@ -14,13 +14,10 @@ that resonate with players and drive engagement.
 ## Technologies & Tools 🛠️
 
 
-- **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript
-- **DevOps:** Docker, Docker-compose, Kubernetes, Github Actions, AWS, Linux, Git
-- **Protocols:** gRPC, RestAPI, Websockets, GraphQL, WebRTC
-- **Backend:** Golang, Gin Framework, Node.js, Express
-- **Frontend:** React.js, Redux, HTML, CSS, JavaScript, Bootstrap
-- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
-- **Other Skills:** Git, Agile Methodologies, Figma
+- **Languages:** C/C++, Python, C#, Java, TypeScript, JavaScript
+- **Engines:** Unity, Unreal Engine 4
+- **3D Modelling Tools:** Blender, Mixamo,
+- **Other Skills:** Git, Agile Methodologies
 
         
 ## Professional Experience 💼
@@ -34,7 +31,7 @@ that resonate with players and drive engagement.
     />
   </a>
 </p>
-As a dedicated gamer, I've honed my skills through various gaming experiences and contributions:
+As a dedicated game Game Developer, I've honed my skills through various Development experiences and contributions:
 
 - Designed intricate level designs and storylines for immersive gaming worlds using Unreal Engine 4 and Unity.
 - Worked collaboratively with multidisciplinary teams to bring engaging games to life across different genres.
@@ -71,7 +68,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
     /></a>
     <a href="https://linkedin.com/in/mzul503" target="_blank"
       ><img
-        title = "@zulqarman"
+        title = "@mzul503"
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="zulqarman"
