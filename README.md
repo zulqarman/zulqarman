@@ -42,7 +42,7 @@ As a dedicated gamer, I've honed my skills through various gaming experiences an
 - Incorporated advanced AI behaviors into enemy characters, providing dynamic gameplay encounters.
 - Crafted custom game mechanics for unique player interactions within virtual environments.
 
-##Goals
+## Goals
 
 In pursuit of continuous growth as a game developer, these objectives motivate me:
 
