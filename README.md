@@ -17,7 +17,7 @@ that resonate with players and drive engagement.
 - **Languages:** C/C++, Python, C#, Java, TypeScript, JavaScript
 - **Engines:** Unity, Unreal Engine 4
 - **3D Modelling Tools:** Blender, Mixamo,
-- **Other Skills:** Git, Agile Methodologies
+- **Other Skills:** Git, Bash, Agile Methodologies
 
         
 ## Professional Experience 💼
@@ -31,7 +31,7 @@ that resonate with players and drive engagement.
     />
   </a>
 </p>
-As a dedicated game Game Developer, I've honed my skills through various Development experiences and contributions:
+As a dedicated Game Developer, I've honed my skills through various development experiences and contributions:
 
 - Designed intricate level designs and storylines for immersive gaming worlds using Unreal Engine 4 and Unity.
 - Worked collaboratively with multidisciplinary teams to bring engaging games to life across different genres.
