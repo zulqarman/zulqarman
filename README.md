@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Zulqurnain </h1>
 
-## What Can I say, I just Games!
+## What Can I say, I just love Games!
 
 
 I am a passionate Game Developer with experience in both 2D and 3D game development. I excel in character and level design, implementing
